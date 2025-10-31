@@ -10,7 +10,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text className="text-md font-bold lowercase">Testing</Text>
+      <Text className="font-rubik-bold">Testing</Text>
 
       <Link href={'/sign-in'}>Sign In</Link>
     </View>
